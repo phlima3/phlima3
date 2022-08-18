@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 Today I'm looking for an internship in the front-end area
+- 🔭 Front-end internship at Hexalab
 - 🌱 I'm studying Systems Development at Dr Demétrio Azevedo JR school.
 - 📫 Contact me by email: psantoslima86@gmail.com
 - ☕ I love coffee
