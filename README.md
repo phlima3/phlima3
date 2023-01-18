@@ -3,8 +3,8 @@
 ---
 
 - 🔭 Front-end internship at Hexalab
-- 🌱 I'm studying Systems Development at Dr Demétrio Azevedo JR school.
-- 📫 Contact me by email: psantoslima86@gmail.com
+- 🌱 Technician graduated in systems development from the school Dr Demétrio azevedo Jr.
+- 📫 Contact me by email: pedrolima3dev@gmail.com
 - ☕ I love coffee
 
 <div align="center">
