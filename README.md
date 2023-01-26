@@ -35,7 +35,7 @@
 
 
   
-  <a href="https://app.daily.dev/pedrolima3"><img align="right" src="https://api.daily.dev/devcards/d9616d655fb5426aab45797f77eab2d1.png?r=2a9" width="300" alt="Pedro's Dev Card"/></a>
+  <a href="https://app.daily.dev/pedrolima3"><img align="right" src="https://api.daily.dev/devcards/d9616d655fb5426aab45797f77eab2d1.png?r=2a9" width="250" alt="Pedro's Dev Card"/></a>
   
  </div>
   
