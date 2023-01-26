@@ -35,7 +35,7 @@
 
 
   
-  <img align="right" alt="Gif" src="https://c.tenor.com/Qfs6EVvsXYIAAAAM/coffee-blow.gif"/>
+  <a href="https://app.daily.dev/pedrolima3"><img align="right" src="https://api.daily.dev/devcards/d9616d655fb5426aab45797f77eab2d1.png?r=2a9" width="300" alt="Pedro's Dev Card"/></a>
   
  </div>
   
