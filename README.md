@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+
 
   
   <a href="https://app.daily.dev/pedrolima3"><img align="right" src="https://api.daily.dev/devcards/d9616d655fb5426aab45797f77eab2d1.png?r=2a9" width="250" alt="Pedro's Dev Card"/></a>
