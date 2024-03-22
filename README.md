@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 Mobile developer
+- 🔭 Frontend developer
 - 🌱 Technician graduated in systems development from the school Dr Demétrio azevedo Jr.
 - 📫 Contact me by email: pedrolima3dev@gmail.com
 - ☕ I love coffee
