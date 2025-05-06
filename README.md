@@ -1,4 +1,3 @@
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
@@ -17,6 +16,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phlima3&layout=compact&langs_count=7&theme=dark"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phlima3&theme=dark" alt="#csorlandi" />
 </div>
+
+
+
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
   ## 🛠 Tech Stack
   
