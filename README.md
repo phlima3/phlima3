@@ -5,10 +5,10 @@
 
 ---
 
-- 🔭 Frontend developer
-- 🌱 Technician graduated in systems development from the school Dr Demétrio azevedo Jr.
-- 📫 Contact me by email: pedrolima3dev@gmail.com
-- ☕ I love coffee
+• 🔭 Frontend Software engineer
+• 🌱 Studying Computer Science
+• 📫 Contact me at: pedrolima3dev@gmail.com
+• ☕ Coffee enthusiast
 
 <div align="center">
   <a href="https://github.com/phlima3">
